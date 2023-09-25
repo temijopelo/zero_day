@@ -1,1 +1,0 @@
-Thi file is mandatory in projects
